@@ -3,7 +3,7 @@
 
 ![](https://github.com/DCWiki/DragonCourtWiki/blob/main/media/locations/World_Map_v1.png)
 
-## The following is a list of locations in [[Dragon Court: Revived]].
+## The following is a list of locations in [Dragon Court: Revived](DragonCourtRevived.md).
 ### Salamander Township
 * [[Main Street in Salamander Township]]
 * [[Market Lane in Salamander Township]]
