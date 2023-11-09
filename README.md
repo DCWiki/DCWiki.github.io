@@ -17,8 +17,8 @@ See this GitHub [reference article](https://docs.github.com/articles/basic-writi
 
 ## Overview
 Here are some common topics that you may find interesting:
-* [Dragon Court: Revived](Dragon-Court-Revived.md)
-* [World Map](Locations.md#world-map)
+* [Dragon Court: Revived](pages/Dragon-Court-Revived.md)
+* [World Map](pages/Locations.md#world-map)
 * [[Questing]]
 * [[Running Away]]
 * [[Feeding Monsters]]
