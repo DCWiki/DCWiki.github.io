@@ -1,5 +1,7 @@
 # Welcome to the Dragon Court Wiki!
 
+![Adventurer](https://github.com/DCWiki/DCWiki.github.io/blob/main/media/adventurer.png)
+
 ![Adventurer](https://github.com/DCWiki/DCWiki.github.io/blob/main/media/adventurer.png?raw=true)
 
 ## Introduction
