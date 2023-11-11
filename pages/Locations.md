@@ -2,7 +2,7 @@
 ## World Map
 (This is a rough draft concept. The future goal is to create a fluid world map via [native GitHub features](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams).)
 
-![](https://github.com/DCWiki/DCWiki.github.io/blob/main/media/locations/World_Map_v1.png)
+![](https://github.com/DCWiki/DCWiki.github.io/blob/main/media/locations/World_Map_v1.png?raw=true)
 
 ## The following is a list of locations in [Dragon Court: Revived](Dragon-Court-Revived.md).
 
