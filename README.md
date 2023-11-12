@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a community wiki for the browser-based game **[Dragon Court: Revived](https://dragoncourt.penguinchilling.com/)** by Penguin Chilling Games. The content is prepared using [Markdown](https://en.wikipedia.org/wiki/Markdown) and is hosted via GitHub Pages. The GitHub repository for this website can be found at (https://github.com/DCWiki/DCWiki.github.io).
+This is a community wiki for the browser-based game **[Dragon Court: Revived](https://dragoncourt.penguinchilling.com/)** by Penguin Chilling Games. The content is prepared using [Markdown](https://en.wikipedia.org/wiki/Markdown) and is hosted via GitHub Pages. The GitHub repository for this website can be found at https://github.com/DCWiki/DCWiki.github.io.
 
 This project is in the very early stages of development, so please be patient as we work to add content.
 
@@ -21,8 +21,10 @@ Here are some common topics that you may find interesting:
 * [Questing]
 * [Running Away]
 * [Feeding Monsters]
-* [Equipment]
+* [Equipment](pages/Equipment.md)
 * [Silver/Crystal Equipment]
 * [Rusting]
 * [Silver Storage]
 * [The Inn]
+* [The Archive](pages/Archive.md)
+

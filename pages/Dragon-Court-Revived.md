@@ -15,6 +15,6 @@ Only the last known client version was found (v19b037) as a Java Applet. Unfortu
 
 **Dragon Court: Revived** went into beta testing on [TBD].
 
-**Dragon Court: Revived** was released to the public on October 7, 2023.
+**Dragon Court: Revived** was released to the public on 2023-10-08 (UTC).
 
 This project can be supported by **[donations via Ko-fi](https://ko-fi.com/penguinchilling)**.
