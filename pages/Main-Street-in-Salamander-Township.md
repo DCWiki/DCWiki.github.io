@@ -1,7 +1,7 @@
 # Main Street in Salamander Township
 The Main Street in Salamander Township acts as the Adventurer's home base in [Dragon Court](DragonCourtRevived.md).
 
-![](https://github.com/DCWiki/DragonCourtWiki/blob/main/media/locations/Main_Street_in_Salamander_Township.png)
+![](https://github.com/DCWiki/DCWiki.github.io/blob/main/media/locations/Main_Street_in_Salamander_Township.png?raw=true)
 
 ## Areas
 There are multiple businesses located on the main street:

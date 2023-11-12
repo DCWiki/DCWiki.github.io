@@ -2,7 +2,7 @@
 
 **Dragon Court: Revived** is a free, browser-based roleplaying game. 
 
-![](https://github.com/DCWiki/DragonCourtWiki/blob/main/media/locations/Login_Page.png)
+![](https://github.com/DCWiki/DCWiki.github.io/blob/main/media/locations/Login_Page.png?raw=true)
 
 ## History
 The original Dragon Court was released around 1997 as a Java Applet, but became abandonware around 2017. It was created by Fred Haslam who handled the bulk of the coding and design. Elden Bishop contributed to the code as well, with design help from Lawrence Wegner and Diane M. Jones. Ted Galaday produced the artwork.
